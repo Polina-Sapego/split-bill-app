@@ -1,0 +1,97 @@
+.Form{
+    position: absolute;
+    left: 1345px;
+    top: 10px;
+    width: 400px;
+    background-color: rgba(244, 185, 113, 0.34);
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 100px;
+}
+
+
+h4 {
+    padding: 25px;
+}
+
+.Bill {
+    position: relative;
+    left: -37px;
+    top: 2px
+}
+
+.Bill1 {
+    position: relative;
+    left: 127px;
+}
+.expense {
+    position: relative;
+    left: -22px;
+    top: -8px
+}
+
+.expense1 {
+    position: relative;
+    left: 100px;
+
+}
+
+.friend2 {
+    position: relative;
+    left: 3px;
+    top: -15px;
+}
+
+.friend3 {
+    position: relative;
+    left: 53px;
+}
+.paying {
+    position: relative;
+    left: -15px;
+    top: -15px;
+}
+
+
+.orange-button2 {
+    position: relative;
+    left: 180px;
+    top: -18px;
+    background-color: orange; /* Оранжевый цвет фона */
+    color: #000000; /* Цвет текста */
+    border: none; /* Без рамки */
+    border-radius: 10px; /* Скругление углов для овальной формы */
+    padding: 10px 20px; /* Отступы для размера кнопки */
+    font-size: 16px; /* Размер текста */
+    cursor: pointer; /* Курсор в виде руки при наведении */
+    transition: background-color 0.3s ease; /* Плавная смена цвета */
+}
+
+.orange-button2:hover {
+    background-color: darkorange; /* Темно-оранжевый цвет при наведении */
+}
+
+input {
+    width: 100px;      /* Ширина инпута */
+    height: 30px;      /* Высота инпута */
+    border-radius: 0;  /* Убираем скругление углов */
+    border: 1px solid #000;
+    text-align: center;
+}
+
+select {
+    width: 100px;      /* Ширина инпута */
+    height: 30px;      /* Высота инпута */
+    border-radius: 0;  /* Убираем скругление углов */
+    border: 1px solid #000;
+}
+
+.Select {
+    position: relative;
+    left: 85px;
+    appearance: none;  /* Убираем стандартные стили браузера, если это нужно */
+    z-index: 1;        /* Убедитесь, что значение z-index выше, чем у других перекрывающих элементов */
+    /* Если используется абсолютное позиционирование, исправьте положение */
+    pointer-events: auto;
+    text-align: center;
+}

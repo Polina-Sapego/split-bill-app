@@ -1,0 +1,60 @@
+
+
+
+
+.Form1{
+    position: absolute;
+    left: 895px;
+    top: 620px;
+    width: 220px;
+    height: 160px;
+    background-color: rgba(244, 185, 113, 0.34);
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 100px;
+}
+.text2 {
+    position: relative;
+    right: 40px;
+    top: 10px;
+}
+
+.addfriend {
+    position: relative;
+    left: 150px;
+    top: -25px;
+    width: 70%;
+
+}
+
+.text3 {
+    position: relative;
+    right: -2px;
+
+}
+
+.url {
+    position: relative;
+    left: 60px;
+    width: 52%;
+}
+
+.orange-button3 {
+    position: relative;
+    left: 80px;
+    top: 17px;
+    width: 200px;
+    background-color: orange; /* Оранжевый цвет фона */
+    color: #000000; /* Цвет текста */
+    border: none; /* Без рамки */
+    border-radius: 10px; /* Скругление углов для овальной формы */
+    padding: 10px 20px; /* Отступы для размера кнопки */
+    font-size: 16px; /* Размер текста */
+    cursor: pointer; /* Курсор в виде руки при наведении */
+    transition: background-color 0.3s ease; /* Плавная смена цвета */
+}
+
+.orange-button3:hover {
+    background-color: darkorange; /* Темно-оранжевый цвет при наведении */
+}
+

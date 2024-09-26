@@ -1,0 +1,90 @@
+.friendlist {
+    position: relative;
+    top: 160px;
+    left: -410px;
+}
+
+.magen {
+margin: -12px;
+}
+
+img{
+    border-radius: 30px; /* Скругление углов для овальной формы */
+}
+
+
+.text {
+    position: relative;
+    left: 110px;
+    top: -55px;
+
+}
+
+.text1 {
+    position: relative;
+    top: 10px;
+}
+
+.Name {
+    position: relative;
+    left: -20px;
+}
+
+.button{
+
+}
+
+.orange-button {
+    position: relative;
+    left: 239px;
+    top: -90px;
+    background-color: orange; /* Оранжевый цвет фона */
+    color: #000000; /* Цвет текста */
+    border: none; /* Без рамки */
+    border-radius: 10px; /* Скругление углов для овальной формы */
+    padding: 10px 20px; /* Отступы для размера кнопки */
+    font-size: 16px; /* Размер текста */
+    cursor: pointer; /* Курсор в виде руки при наведении */
+    transition: background-color 0.3s ease; /* Плавная смена цвета */
+}
+
+.orange-button:hover {
+    background-color: darkorange; /* Темно-оранжевый цвет при наведении */
+}
+
+.orange-button1 {
+    position: relative;
+    left: 227px;
+    top: -30px;
+    background-color: orange; /* Оранжевый цвет фона */
+    color: #000000; /* Цвет текста */
+    border: none; /* Без рамки */
+    border-radius: 10px; /* Скругление углов для овальной формы */
+    padding: 10px 20px; /* Отступы для размера кнопки */
+    font-size: 16px; /* Размер текста */
+    cursor: pointer; /* Курсор в виде руки при наведении */
+    transition: background-color 0.3s ease; /* Плавная смена цвета */
+}
+
+.orange-button1:hover {
+    background-color: darkorange; /* Темно-оранжевый цвет при наведении */
+}
+
+
+.orange-button1 {
+    position: relative;
+    left: 227px;
+    top: -30px;
+    background-color: orange; /* Оранжевый цвет фона */
+    color: #000000; /* Цвет текста */
+    border: none; /* Без рамки */
+    border-radius: 10px; /* Скругление углов для овальной формы */
+    padding: 10px 20px; /* Отступы для размера кнопки */
+    font-size: 16px; /* Размер текста */
+    cursor: pointer; /* Курсор в виде руки при наведении */
+    transition: background-color 0.3s ease; /* Плавная смена цвета */
+}
+
+.orange-button1:hover {
+    background-color: darkorange; /* Темно-оранжевый цвет при наведении */
+}
