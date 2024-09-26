@@ -9,7 +9,7 @@ margin: -12px;
 }
 
 img{
-    border-radius: 30px; /* Скругление углов для овальной формы */
+    border-radius: 30px; 
 }
 
 
@@ -38,53 +38,34 @@ img{
     position: relative;
     left: 239px;
     top: -90px;
-    background-color: orange; /* Оранжевый цвет фона */
-    color: #000000; /* Цвет текста */
-    border: none; /* Без рамки */
-    border-radius: 10px; /* Скругление углов для овальной формы */
-    padding: 10px 20px; /* Отступы для размера кнопки */
-    font-size: 16px; /* Размер текста */
-    cursor: pointer; /* Курсор в виде руки при наведении */
-    transition: background-color 0.3s ease; /* Плавная смена цвета */
+    background-color: orange; 
+    color: #000000; 
+    border: none; 
+    border-radius: 10px; 
+    padding: 10px 20px;
+    font-size: 16px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
 }
 
 .orange-button:hover {
-    background-color: darkorange; /* Темно-оранжевый цвет при наведении */
+    background-color: darkorange; 
 }
 
 .orange-button1 {
     position: relative;
     left: 227px;
     top: -30px;
-    background-color: orange; /* Оранжевый цвет фона */
-    color: #000000; /* Цвет текста */
-    border: none; /* Без рамки */
-    border-radius: 10px; /* Скругление углов для овальной формы */
-    padding: 10px 20px; /* Отступы для размера кнопки */
-    font-size: 16px; /* Размер текста */
-    cursor: pointer; /* Курсор в виде руки при наведении */
-    transition: background-color 0.3s ease; /* Плавная смена цвета */
+    background-color: orange; 
+    color: #000000; 
+    border: none; 
+    border-radius: 10px;
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
 }
 
 .orange-button1:hover {
-    background-color: darkorange; /* Темно-оранжевый цвет при наведении */
-}
-
-
-.orange-button1 {
-    position: relative;
-    left: 227px;
-    top: -30px;
-    background-color: orange; /* Оранжевый цвет фона */
-    color: #000000; /* Цвет текста */
-    border: none; /* Без рамки */
-    border-radius: 10px; /* Скругление углов для овальной формы */
-    padding: 10px 20px; /* Отступы для размера кнопки */
-    font-size: 16px; /* Размер текста */
-    cursor: pointer; /* Курсор в виде руки при наведении */
-    transition: background-color 0.3s ease; /* Плавная смена цвета */
-}
-
-.orange-button1:hover {
-    background-color: darkorange; /* Темно-оранжевый цвет при наведении */
+    background-color: darkorange; 
 }

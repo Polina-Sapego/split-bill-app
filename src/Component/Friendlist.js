@@ -78,5 +78,4 @@ function Friendlist() {
     )
 }
 
-
 export default Friendlist;

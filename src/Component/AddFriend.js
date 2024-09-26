@@ -16,7 +16,6 @@ function AddFriend({newName}) {
         setName(e.target.value);
     }
 
-
 return(
 
     <div className='Form1'>
@@ -29,8 +28,6 @@ return(
 
     </div>
 )
-
 }
-
 
 export default AddFriend;

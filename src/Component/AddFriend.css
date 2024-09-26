@@ -43,18 +43,17 @@
     position: relative;
     left: 80px;
     top: 17px;
-    width: 200px;
-    background-color: orange; /* Оранжевый цвет фона */
-    color: #000000; /* Цвет текста */
-    border: none; /* Без рамки */
-    border-radius: 10px; /* Скругление углов для овальной формы */
-    padding: 10px 20px; /* Отступы для размера кнопки */
-    font-size: 16px; /* Размер текста */
-    cursor: pointer; /* Курсор в виде руки при наведении */
-    transition: background-color 0.3s ease; /* Плавная смена цвета */
+    background-color: orange; 
+    color: #000000; 
+    border: none; 
+    border-radius: 10px;
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
 }
 
 .orange-button3:hover {
-    background-color: darkorange; /* Темно-оранжевый цвет при наведении */
+    background-color: darkorange;
 }
 

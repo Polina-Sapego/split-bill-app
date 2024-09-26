@@ -1,5 +1,4 @@
 import './Form.css';
-import {useState} from "react";
 
 function Form({friend, bill, setBill, handleBill}) {
 
@@ -11,9 +10,6 @@ function Form({friend, bill, setBill, handleBill}) {
 
         }))
     }
-
-
-
 
 return(
     <div className="Form">
@@ -33,7 +29,6 @@ return(
 
     </div>
 )
-
 }
 
 export default Form;

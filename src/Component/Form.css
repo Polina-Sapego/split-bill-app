@@ -57,41 +57,41 @@ h4 {
     position: relative;
     left: 180px;
     top: -18px;
-    background-color: orange; /* Оранжевый цвет фона */
-    color: #000000; /* Цвет текста */
-    border: none; /* Без рамки */
-    border-radius: 10px; /* Скругление углов для овальной формы */
-    padding: 10px 20px; /* Отступы для размера кнопки */
-    font-size: 16px; /* Размер текста */
-    cursor: pointer; /* Курсор в виде руки при наведении */
-    transition: background-color 0.3s ease; /* Плавная смена цвета */
+    background-color: orange; 
+    color: #000000; 
+    border: none; 
+    border-radius: 10px;
+    padding: 10px 20px; 
+    font-size: 16px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
 }
 
+
 .orange-button2:hover {
-    background-color: darkorange; /* Темно-оранжевый цвет при наведении */
+    background-color: darkorange; 
 }
 
 input {
-    width: 100px;      /* Ширина инпута */
-    height: 30px;      /* Высота инпута */
-    border-radius: 0;  /* Убираем скругление углов */
+    width: 100px;      
+    height: 30px;      
+    border-radius: 0;  
     border: 1px solid #000;
     text-align: center;
 }
 
 select {
-    width: 100px;      /* Ширина инпута */
-    height: 30px;      /* Высота инпута */
-    border-radius: 0;  /* Убираем скругление углов */
+    width: 100px;      
+    height: 30px;      
+    border-radius: 0;  
     border: 1px solid #000;
 }
 
 .Select {
     position: relative;
     left: 85px;
-    appearance: none;  /* Убираем стандартные стили браузера, если это нужно */
-    z-index: 1;        /* Убедитесь, что значение z-index выше, чем у других перекрывающих элементов */
-    /* Если используется абсолютное позиционирование, исправьте положение */
+    appearance: none;  
+    z-index: 1;       
     pointer-events: auto;
     text-align: center;
 }

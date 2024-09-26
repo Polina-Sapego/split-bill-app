@@ -4,8 +4,6 @@ import Friendlist from "./Component/Friendlist";
 
 
 function App() {
-
-
   return (
     <div className="App">
       <Friendlist />
